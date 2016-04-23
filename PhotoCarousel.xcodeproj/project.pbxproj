@@ -14,6 +14,15 @@
 		6375479E1CCB516F00BC3BBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6375479C1CCB516F00BC3BBD /* LaunchScreen.storyboard */; };
 		637547A91CCB516F00BC3BBD /* PhotoCarouselTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637547A81CCB516F00BC3BBD /* PhotoCarouselTests.swift */; };
 		637547B41CCB516F00BC3BBD /* PhotoCarouselUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637547B31CCB516F00BC3BBD /* PhotoCarouselUITests.swift */; };
+		637547D41CCB56FD00BC3BBD /* 3CoEETpvQYO8x60lnZSA_rue.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 637547CB1CCB56FD00BC3BBD /* 3CoEETpvQYO8x60lnZSA_rue.jpg */; };
+		637547D51CCB56FD00BC3BBD /* 4151481230_640b61e248_b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 637547CC1CCB56FD00BC3BBD /* 4151481230_640b61e248_b.jpg */; };
+		637547D61CCB56FD00BC3BBD /* apx8EPiSnWoYHSEiUENI_14553734675_699b2aa038_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 637547CD1CCB56FD00BC3BBD /* apx8EPiSnWoYHSEiUENI_14553734675_699b2aa038_o.jpg */; };
+		637547D71CCB56FD00BC3BBD /* BIR62RGGjGxN5nrbnzwu_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 637547CE1CCB56FD00BC3BBD /* BIR62RGGjGxN5nrbnzwu_3.jpg */; };
+		637547D81CCB56FD00BC3BBD /* c9e42240.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 637547CF1CCB56FD00BC3BBD /* c9e42240.jpeg */; };
+		637547D91CCB56FD00BC3BBD /* camera-man.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 637547D01CCB56FD00BC3BBD /* camera-man.jpg */; };
+		637547DA1CCB56FD00BC3BBD /* D8ijGd3CSGq4BxJ9EzTf_13976945916_fa0ce84ee3_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 637547D11CCB56FD00BC3BBD /* D8ijGd3CSGq4BxJ9EzTf_13976945916_fa0ce84ee3_o.jpg */; };
+		637547DB1CCB56FD00BC3BBD /* Dresden, German.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 637547D21CCB56FD00BC3BBD /* Dresden, German.jpg */; };
+		637547DC1CCB56FD00BC3BBD /* eDLHCtzRR0yfFtU0BQar_sylwiabartyzel_themap.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 637547D31CCB56FD00BC3BBD /* eDLHCtzRR0yfFtU0BQar_sylwiabartyzel_themap.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +56,15 @@
 		637547AF1CCB516F00BC3BBD /* PhotoCarouselUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoCarouselUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		637547B31CCB516F00BC3BBD /* PhotoCarouselUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCarouselUITests.swift; sourceTree = "<group>"; };
 		637547B51CCB516F00BC3BBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		637547CB1CCB56FD00BC3BBD /* 3CoEETpvQYO8x60lnZSA_rue.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3CoEETpvQYO8x60lnZSA_rue.jpg; sourceTree = "<group>"; };
+		637547CC1CCB56FD00BC3BBD /* 4151481230_640b61e248_b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4151481230_640b61e248_b.jpg; sourceTree = "<group>"; };
+		637547CD1CCB56FD00BC3BBD /* apx8EPiSnWoYHSEiUENI_14553734675_699b2aa038_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = apx8EPiSnWoYHSEiUENI_14553734675_699b2aa038_o.jpg; sourceTree = "<group>"; };
+		637547CE1CCB56FD00BC3BBD /* BIR62RGGjGxN5nrbnzwu_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BIR62RGGjGxN5nrbnzwu_3.jpg; sourceTree = "<group>"; };
+		637547CF1CCB56FD00BC3BBD /* c9e42240.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = c9e42240.jpeg; sourceTree = "<group>"; };
+		637547D01CCB56FD00BC3BBD /* camera-man.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "camera-man.jpg"; sourceTree = "<group>"; };
+		637547D11CCB56FD00BC3BBD /* D8ijGd3CSGq4BxJ9EzTf_13976945916_fa0ce84ee3_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = D8ijGd3CSGq4BxJ9EzTf_13976945916_fa0ce84ee3_o.jpg; sourceTree = "<group>"; };
+		637547D21CCB56FD00BC3BBD /* Dresden, German.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Dresden, German.jpg"; sourceTree = "<group>"; };
+		637547D31CCB56FD00BC3BBD /* eDLHCtzRR0yfFtU0BQar_sylwiabartyzel_themap.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eDLHCtzRR0yfFtU0BQar_sylwiabartyzel_themap.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +121,15 @@
 				6375479A1CCB516F00BC3BBD /* Assets.xcassets */,
 				6375479C1CCB516F00BC3BBD /* LaunchScreen.storyboard */,
 				6375479F1CCB516F00BC3BBD /* Info.plist */,
+				637547CB1CCB56FD00BC3BBD /* 3CoEETpvQYO8x60lnZSA_rue.jpg */,
+				637547CC1CCB56FD00BC3BBD /* 4151481230_640b61e248_b.jpg */,
+				637547CD1CCB56FD00BC3BBD /* apx8EPiSnWoYHSEiUENI_14553734675_699b2aa038_o.jpg */,
+				637547CE1CCB56FD00BC3BBD /* BIR62RGGjGxN5nrbnzwu_3.jpg */,
+				637547CF1CCB56FD00BC3BBD /* c9e42240.jpeg */,
+				637547D01CCB56FD00BC3BBD /* camera-man.jpg */,
+				637547D11CCB56FD00BC3BBD /* D8ijGd3CSGq4BxJ9EzTf_13976945916_fa0ce84ee3_o.jpg */,
+				637547D21CCB56FD00BC3BBD /* Dresden, German.jpg */,
+				637547D31CCB56FD00BC3BBD /* eDLHCtzRR0yfFtU0BQar_sylwiabartyzel_themap.jpg */,
 			);
 			path = PhotoCarousel;
 			sourceTree = "<group>";
@@ -229,9 +256,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				637547DA1CCB56FD00BC3BBD /* D8ijGd3CSGq4BxJ9EzTf_13976945916_fa0ce84ee3_o.jpg in Resources */,
 				6375479E1CCB516F00BC3BBD /* LaunchScreen.storyboard in Resources */,
+				637547DC1CCB56FD00BC3BBD /* eDLHCtzRR0yfFtU0BQar_sylwiabartyzel_themap.jpg in Resources */,
+				637547D71CCB56FD00BC3BBD /* BIR62RGGjGxN5nrbnzwu_3.jpg in Resources */,
+				637547D91CCB56FD00BC3BBD /* camera-man.jpg in Resources */,
+				637547D81CCB56FD00BC3BBD /* c9e42240.jpeg in Resources */,
 				6375479B1CCB516F00BC3BBD /* Assets.xcassets in Resources */,
+				637547D61CCB56FD00BC3BBD /* apx8EPiSnWoYHSEiUENI_14553734675_699b2aa038_o.jpg in Resources */,
+				637547D41CCB56FD00BC3BBD /* 3CoEETpvQYO8x60lnZSA_rue.jpg in Resources */,
+				637547DB1CCB56FD00BC3BBD /* Dresden, German.jpg in Resources */,
 				637547991CCB516F00BC3BBD /* Main.storyboard in Resources */,
+				637547D51CCB56FD00BC3BBD /* 4151481230_640b61e248_b.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
